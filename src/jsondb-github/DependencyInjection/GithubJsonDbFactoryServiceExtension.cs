@@ -1,5 +1,6 @@
 ﻿using JsonDb;
 using JsonDb.Github;
+using System;
 
 namespace Microsoft.Extensions.DependencyInjection
 {
