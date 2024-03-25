@@ -5,8 +5,6 @@ VisualStudioVersion = 17.9.34622.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jsondb-github", "jsondb-github.csproj", "{055E2A05-F3B9-444D-ADEB-CEC3B7D6B500}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jsondb-github-console", "..\jsondb-github-console\jsondb-github-console.csproj", "{4AC75328-1ADC-4FDF-945F-F8E5938DA0A2}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "jsondb-core", "..\jsondb-core\jsondb-core.csproj", "{8A7229B8-2E27-4CDF-8063-47A3D431F29F}"
 EndProject
 Global
